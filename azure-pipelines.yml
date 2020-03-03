@@ -34,5 +34,3 @@ steps:
     PublishProfilePath: '$(System.DefaultWorkingDirectory)/**/DevTeacher - Web Deploy.pubxml'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
     PublishProfilePassword: 'x'
-
-- task: PublishBuildArtifacts@1
