@@ -33,4 +33,4 @@ steps:
     ConnectionType: 'PublishProfile'
     PublishProfilePath: '$(System.DefaultWorkingDirectory)/**/DevTeacher - Web Deploy.pubxml'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
-    PublishProfilePassword: 'x'
+    PublishProfilePassword: 'H1Ja9KrhQ71ekqywDSCof7b9Yr3wruBjgEuSFkDK4lCYwm78779zv5FY8SJ7'
